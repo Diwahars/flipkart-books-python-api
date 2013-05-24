@@ -2,7 +2,8 @@
 
 Steps to install 
 
-If you use pip you can install by pip install Flipkart
+If you use pip you can install by 
+sudo pip install Flipkart
 
 or 
 
@@ -17,7 +18,7 @@ python setup.py build            #to do the building
 
 and 
 
-python setup.py install          #to install
+sudo python setup.py install          #to install
 
 
 Example Program:
