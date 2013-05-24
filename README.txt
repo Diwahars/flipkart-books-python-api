@@ -2,6 +2,10 @@
 
 Steps to install 
 
+If you use pip you can install by pip install Flipkart
+
+or 
+
 1.install setup tools first if not installed 
 read more at
 https://pypi.python.org/pypi/setuptools#installation-instructions
